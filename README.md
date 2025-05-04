@@ -48,3 +48,4 @@ Saya Daffa Faiz Restu Oktavian dengan NIM 2309013 mengerjakan Tugas Praktikum 8 
    - Tabel `students`, `courses`, dan `student_courses` digunakan untuk menyimpan data mahasiswa, mata kuliah, dan pendaftaran.
 
 # Dokumentasi
+https://github.com/user-attachments/assets/cd9b08e3-88ad-4b31-ae0a-710006f189fc
